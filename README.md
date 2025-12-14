@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web3 mostly learning solana contracts<br>
+I’m currently working in the Web3 space, with a primary focus on learning and building Solana smart contracts.<br>
 
 
 ## 🌐 Socials:
